@@ -11,9 +11,7 @@
     <copyright>Copyright � Brian Delaney 2018</copyright>
     <tags>sport ranker system events</tags>
     <dependencies>
-      <dependency>
         <dependency id="SportRanker.Contracts.Dto" version="1.0.0" />
-      </dependency>
     </dependencies>
   </metadata>
   <files>
