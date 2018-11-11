@@ -5,7 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\SportRanker.Contracts.Dto\SportRanker.Contracts.Dto.csproj" />
+    <PackageReference Include="SportRanker.Contracts.Dto" Version="1.0.0" />
   </ItemGroup>
 
 </Project>
