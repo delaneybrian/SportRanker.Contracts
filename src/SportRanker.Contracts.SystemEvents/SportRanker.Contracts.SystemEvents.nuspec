@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>SportRanker.Contracts.SystemEvents</id>
+    <version>1.0.0</version>
+    <title>SportRanker.Contracts.SystemEvents</title>
+    <authors>Brian Delaney</authors>
+    <owners>Brian Delaney</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>System Events For Sports Rankings</description>
+    <copyright>Copyright � Brian Delaney 2018</copyright>
+    <tags>sport ranker system events</tags>
+    <dependencies>
+      <dependency></dependency>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="bin\Release\netstandard2.0\SportRanker.Contracts.SystemEvents.dll" target="lib\netstandard2.0\SportRanker.Contracts.SystemEvents.dll" />
+  </files>
+</package>
