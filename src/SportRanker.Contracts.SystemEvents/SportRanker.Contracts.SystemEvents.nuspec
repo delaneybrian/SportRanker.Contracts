@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
   <metadata>
     <id>SportRanker.Contracts.SystemEvents</id>
-    <version>1.0.0</version>
+    <version>1.1.0</version>
     <title>SportRanker.Contracts.SystemEvents</title>
     <authors>Brian Delaney</authors>
     <owners>Brian Delaney</owners>
@@ -11,7 +11,7 @@
     <copyright>Copyright � Brian Delaney 2018</copyright>
     <tags>sport ranker system events</tags>
     <dependencies>
-        <dependency id="SportRanker.Contracts.Dto" version="1.0.0" />
+        <dependency id="SportRanker.Contracts.Dto" version="1.1.0" />
     </dependencies>
   </metadata>
   <files>
