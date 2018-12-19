@@ -6,7 +6,7 @@ namespace SportRanker.Contracts.Dto
     public class Sport
     {
         [DataMember]
-        public long SportId { get; set; }
+        public string SportId { get; set; }
 
         [DataMember]
         public string Name { get; set; }

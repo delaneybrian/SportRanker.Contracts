@@ -8,7 +8,7 @@ namespace SportRanker.Contracts.Dto
     public class Fixture
     {
         [DataMember]
-        public long Id { get; set; }
+        public string Id { get; set; }
 
         [DataMember]
         public long HomeTeamId { get; set; }
