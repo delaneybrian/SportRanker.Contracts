@@ -7,10 +7,7 @@ namespace SportRanker.Contracts.SystemEvents
     public class RankingChange
     {
         [DataMember]
-        public SportId SportId { get; set; }
-
-        [DataMember]
-        public long TeamId { get; set; }
+        public long Id { get; set; }
 
         [DataMember]
         public long Ranking { get; set; }
